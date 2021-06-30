@@ -1,0 +1,2 @@
+# oculus-vr-body
+Developed a VR application that predicts and shows arm and leg movements on avatars in VR. This is done with only hand controllers and the headset. The project was developed using the Unity game engine and the C# programming language. The concept that the project was based on is called "Inverse Kinematics" and it's objective is to predict limb and joint location and orientation based on tracking the orientation of hand held controllers (Or just your hands on the Oculus Quest 2 device).
